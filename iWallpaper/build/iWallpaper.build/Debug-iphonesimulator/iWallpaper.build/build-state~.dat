@@ -1,0 +1,515 @@
+TiWallpaper
+v7
+r0
+t328190530.320116
+cCheck dependencies
+cProcessInfoPlistFile /Users/sohel/Desktop/Projects/iWallpaper/build/Debug-iphonesimulator/iWallpaper.app/Info.plist iWallpaper-Info.plist
+cCompileXIB /Users/sohel/Desktop/Projects/iWallpaper/MainWindow.xib
+cCompileXIB /Users/sohel/Desktop/Projects/iWallpaper/iWallpaperViewController.xib
+cProcessPCH /var/folders/vN/vNjHNZ+QHhmBwGiPV9aHtE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iWallpaper_Prefix-epfqfkxsmzvlztgvnwbjvxbkdrbv/iWallpaper_Prefix.pch.gch iWallpaper_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/Objects-normal/i386/main.o /Users/sohel/Desktop/Projects/iWallpaper/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/Objects-normal/i386/iWallpaperAppDelegate.o /Users/sohel/Desktop/Projects/iWallpaper/Classes/iWallpaperAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/Objects-normal/i386/iWallpaperViewController.o /Users/sohel/Desktop/Projects/iWallpaper/Classes/iWallpaperViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/Objects-normal/i386/DataLoad.o /Users/sohel/Desktop/Projects/iWallpaper/Classes/../DataLoad.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/Objects-normal/i386/NSObject+SBJSON.o /Users/sohel/Desktop/Projects/iWallpaper/Classes/NSObject+SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/Objects-normal/i386/NSString+SBJSON.o /Users/sohel/Desktop/Projects/iWallpaper/Classes/NSString+SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/Objects-normal/i386/SBJSON.o /Users/sohel/Desktop/Projects/iWallpaper/Classes/SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/Objects-normal/i386/SBJsonBase.o /Users/sohel/Desktop/Projects/iWallpaper/Classes/SBJsonBase.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/Objects-normal/i386/SBJsonParser.o /Users/sohel/Desktop/Projects/iWallpaper/Classes/SBJsonParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/Objects-normal/i386/SBJsonWriter.o /Users/sohel/Desktop/Projects/iWallpaper/Classes/SBJsonWriter.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/Objects-normal/i386/AsynchronousParser.o /Users/sohel/Desktop/Projects/iWallpaper/Classes/AsynchronousParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/sohel/Desktop/Projects/iWallpaper/build/Debug-iphonesimulator/iWallpaper.app/iWallpaper normal i386
+cGenerateDSYMFile /Users/sohel/Desktop/Projects/iWallpaper/build/Debug-iphonesimulator/iWallpaper.app.dSYM /Users/sohel/Desktop/Projects/iWallpaper/build/Debug-iphonesimulator/iWallpaper.app/iWallpaper
+cTouch /Users/sohel/Desktop/Projects/iWallpaper/build/Debug-iphonesimulator/iWallpaper.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004D4CEF060000000000000132
+t1296887558
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Users/sohel/Desktop/Projects/iWallpaper/Classes/../DataLoad.m
+c000000004DDF913C000000000000062F
+t1306497340
+s1583
+i"DataLoad.h"
+i"AsynchronousParser.h"
+
+N/Users/sohel/Desktop/Projects/iWallpaper/Classes/AsynchronousParser.h
+c000000004DDF8D4A00000000000002D1
+t1306496330
+s721
+i<UIKit/UIKit.h>
+
+N/Users/sohel/Desktop/Projects/iWallpaper/Classes/AsynchronousParser.m
+c000000004DDF90C30000000000000B7D
+t1306497219
+s2941
+i"AsynchronousParser.h"
+i"JSON.h"
+
+N/Users/sohel/Desktop/Projects/iWallpaper/Classes/JSON.h
+c000000004A748DD200000000000008F9
+t1249152466
+s2297
+i"SBJSON.h"
+i"NSObject+SBJSON.h"
+i"NSString+SBJSON.h"
+
+N/Users/sohel/Desktop/Projects/iWallpaper/Classes/NSObject+SBJSON.h
+c000000004A748DD20000000000000A01
+t1249152466
+s2561
+i<Foundation/Foundation.h>
+
+N/Users/sohel/Desktop/Projects/iWallpaper/Classes/NSObject+SBJSON.m
+c000000004AAB9B06000000000000089E
+t1252760326
+s2206
+i"NSObject+SBJSON.h"
+i"SBJsonWriter.h"
+
+N/Users/sohel/Desktop/Projects/iWallpaper/Classes/NSString+SBJSON.h
+c000000004A748DD20000000000000916
+t1249152466
+s2326
+i<Foundation/Foundation.h>
+
+N/Users/sohel/Desktop/Projects/iWallpaper/Classes/NSString+SBJSON.m
+c000000004AAB9B06000000000000087D
+t1252760326
+s2173
+i"NSString+SBJSON.h"
+i"SBJsonParser.h"
+
+N/Users/sohel/Desktop/Projects/iWallpaper/Classes/SBJSON.h
+c000000004A748DD20000000000000AED
+t1249152466
+s2797
+i<Foundation/Foundation.h>
+i"SBJsonParser.h"
+i"SBJsonWriter.h"
+
+N/Users/sohel/Desktop/Projects/iWallpaper/Classes/SBJSON.m
+c000000004BA0B3E40000000000001A94
+t1268823012
+s6804
+i"SBJSON.h"
+
+N/Users/sohel/Desktop/Projects/iWallpaper/Classes/SBJsonBase.h
+c000000004A748DD20000000000000B82
+t1249152466
+s2946
+i<Foundation/Foundation.h>
+
+N/Users/sohel/Desktop/Projects/iWallpaper/Classes/SBJsonBase.m
+c000000004A748DD20000000000000AC1
+t1249152466
+s2753
+i"SBJsonBase.h"
+
+N/Users/sohel/Desktop/Projects/iWallpaper/Classes/SBJsonParser.h
+c000000004A748DD20000000000000C0B
+t1249152466
+s3083
+i<Foundation/Foundation.h>
+i"SBJsonBase.h"
+
+N/Users/sohel/Desktop/Projects/iWallpaper/Classes/SBJsonParser.m
+c000000004A748DD200000000000036CF
+t1249152466
+s14031
+i"SBJsonParser.h"
+
+N/Users/sohel/Desktop/Projects/iWallpaper/Classes/SBJsonWriter.h
+c000000004A748DD20000000000001140
+t1249152466
+s4416
+i<Foundation/Foundation.h>
+i"SBJsonBase.h"
+
+N/Users/sohel/Desktop/Projects/iWallpaper/Classes/SBJsonWriter.m
+c000000004A748DD20000000000001E83
+t1249152466
+s7811
+i"SBJsonWriter.h"
+
+N/Users/sohel/Desktop/Projects/iWallpaper/Classes/iWallpaperAppDelegate.h
+c000000004DDF721B0000000000000274
+t1306489371
+s628
+i<UIKit/UIKit.h>
+
+N/Users/sohel/Desktop/Projects/iWallpaper/Classes/iWallpaperAppDelegate.m
+c000000004DDF76840000000000000A8D
+t1306490500
+s2701
+i"iWallpaperAppDelegate.h"
+i"iWallpaperViewController.h"
+
+N/Users/sohel/Desktop/Projects/iWallpaper/Classes/iWallpaperViewController.h
+c000000004DDF7F360000000000000168
+t1306492726
+s360
+i<UIKit/UIKit.h>
+
+N/Users/sohel/Desktop/Projects/iWallpaper/Classes/iWallpaperViewController.m
+c000000004DDF91D10000000000001155
+t1306497489
+s4437
+i"iWallpaperViewController.h"
+i"DataLoad.h"
+
+N/Users/sohel/Desktop/Projects/iWallpaper/DataLoad.h
+c000000004DDF92B300000000000002C6
+t1306497715
+s710
+i<UIKit/UIKit.h>
+
+N/Users/sohel/Desktop/Projects/iWallpaper/MainWindow.xib
+c000000004DDF716F0000000000004E4D
+t1306489199
+s20045
+
+N/Users/sohel/Desktop/Projects/iWallpaper/build/Debug-iphonesimulator/iWallpaper.app
+t1306497730
+s238
+
+N/Users/sohel/Desktop/Projects/iWallpaper/build/Debug-iphonesimulator/iWallpaper.app.dSYM
+t1306497730
+s102
+
+N/Users/sohel/Desktop/Projects/iWallpaper/build/Debug-iphonesimulator/iWallpaper.app/Info.plist
+t1306497727
+s625
+
+N/Users/sohel/Desktop/Projects/iWallpaper/build/Debug-iphonesimulator/iWallpaper.app/MainWindow.nib
+t1306497728
+s1129
+
+N/Users/sohel/Desktop/Projects/iWallpaper/build/Debug-iphonesimulator/iWallpaper.app/PkgInfo
+t1306497727
+s8
+
+N/Users/sohel/Desktop/Projects/iWallpaper/build/Debug-iphonesimulator/iWallpaper.app/iWallpaper
+t1306497730
+s69840
+
+N/Users/sohel/Desktop/Projects/iWallpaper/build/Debug-iphonesimulator/iWallpaper.app/iWallpaperViewController.nib
+t1306497728
+s795
+
+N/Users/sohel/Desktop/Projects/iWallpaper/build/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/Objects-normal/i386/AsynchronousParser.o
+t1306497730
+s23400
+
+N/Users/sohel/Desktop/Projects/iWallpaper/build/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/Objects-normal/i386/DataLoad.o
+t1306497729
+s15676
+
+N/Users/sohel/Desktop/Projects/iWallpaper/build/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/Objects-normal/i386/NSObject+SBJSON.o
+t1306497729
+s8296
+
+N/Users/sohel/Desktop/Projects/iWallpaper/build/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/Objects-normal/i386/NSString+SBJSON.o
+t1306497729
+s8216
+
+N/Users/sohel/Desktop/Projects/iWallpaper/build/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/Objects-normal/i386/SBJSON.o
+t1306497729
+s20080
+
+N/Users/sohel/Desktop/Projects/iWallpaper/build/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/Objects-normal/i386/SBJsonBase.o
+t1306497729
+s13212
+
+N/Users/sohel/Desktop/Projects/iWallpaper/build/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/Objects-normal/i386/SBJsonParser.o
+t1306497730
+s35884
+
+N/Users/sohel/Desktop/Projects/iWallpaper/build/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/Objects-normal/i386/SBJsonWriter.o
+t1306497730
+s24860
+
+N/Users/sohel/Desktop/Projects/iWallpaper/build/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/Objects-normal/i386/iWallpaper.LinkFileList
+c000000004DDF92BF00000000000005FB
+t1306497727
+s1531
+
+N/Users/sohel/Desktop/Projects/iWallpaper/build/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/Objects-normal/i386/iWallpaperAppDelegate.o
+t1306497729
+s52932
+
+N/Users/sohel/Desktop/Projects/iWallpaper/build/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/Objects-normal/i386/iWallpaperViewController.o
+t1306497729
+s49628
+
+N/Users/sohel/Desktop/Projects/iWallpaper/build/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/Objects-normal/i386/main.o
+t1306497729
+s6308
+
+N/Users/sohel/Desktop/Projects/iWallpaper/iWallpaperViewController.xib
+c000000004DDF716F0000000000001A51
+t1306489199
+s6737
+
+N/Users/sohel/Desktop/Projects/iWallpaper/iWallpaper_Prefix.pch
+c000000004DDF716F00000000000000BD
+t1306489199
+s189
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/sohel/Desktop/Projects/iWallpaper/main.m
+c000000004DDF716F000000000000016C
+t1306489199
+s364
+i<UIKit/UIKit.h>
+
+N/var/folders/vN/vNjHNZ+QHhmBwGiPV9aHtE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iWallpaper_Prefix-epfqfkxsmzvlztgvnwbjvxbkdrbv/iWallpaper_Prefix.pch.gch
+t1306497729
+s15232016
+
+NiWallpaper-Info.plist
+c000000004DDF7E810000000000000398
+t1306492545
+s920
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies328190527#328190527#0(0"0(0#1#0"8635987616#0"0#
+
+CCompileC build/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/Objects-normal/i386/AsynchronousParser.o /Users/sohel/Desktop/Projects/iWallpaper/Classes/AsynchronousParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s328190530.085185
+e328190530.163888
+r1
+xCompileC
+xbuild/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/Objects-normal/i386/AsynchronousParser.o
+x/Users/sohel/Desktop/Projects/iWallpaper/Classes/AsynchronousParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/sohel/Desktop/Projects/iWallpaper/Classes/AsynchronousParser.m328190530#328190530#0(0"0(0#0#69"/Users/sohel/Desktop/Projects/iWallpaper/Classes/AsynchronousParser.m8636039712#2019"    cd /Users/sohel/Desktop/Projects/iWallpaper    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/sohel/Desktop/Projects/iWallpaper/build/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/iWallpaper-generated-files.hmap -I/Users/sohel/Desktop/Projects/iWallpaper/build/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/iWallpaper-own-target-headers.hmap -I/Users/sohel/Desktop/Projects/iWallpaper/build/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/iWallpaper-all-target-headers.hmap -iquote /Users/sohel/Desktop/Projects/iWallpaper/build/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/iWallpaper-project-headers.hmap -F/Users/sohel/Desktop/Projects/iWallpaper/build/Debug-iphonesimulator -I/Users/sohel/Desktop/Projects/iWallpaper/build/Debug-iphonesimulator/include -I/Users/sohel/Desktop/Projects/iWallpaper/build/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/DerivedSources/i386 -I/Users/sohel/Desktop/Projects/iWallpaper/build/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/DerivedSources -include /var/folders/vN/vNjHNZ+QHhmBwGiPV9aHtE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iWallpaper_Prefix-epfqfkxsmzvlztgvnwbjvxbkdrbv/iWallpaper_Prefix.pch -c /Users/sohel/Desktop/Projects/iWallpaper/Classes/AsynchronousParser.m -o /Users/sohel/Desktop/Projects/iWallpaper/build/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/Objects-normal/i386/AsynchronousParser.o0#
+
+CCompileC build/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/Objects-normal/i386/DataLoad.o /Users/sohel/Desktop/Projects/iWallpaper/Classes/../DataLoad.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s328190529.723634
+e328190529.804200
+r1
+xCompileC
+xbuild/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/Objects-normal/i386/DataLoad.o
+x/Users/sohel/Desktop/Projects/iWallpaper/Classes/../DataLoad.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/sohel/Desktop/Projects/iWallpaper/Classes/../DataLoad.m328190529#328190529#0(0"0(0#0#62"/Users/sohel/Desktop/Projects/iWallpaper/Classes/../DataLoad.m8636919424#2002"    cd /Users/sohel/Desktop/Projects/iWallpaper    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/sohel/Desktop/Projects/iWallpaper/build/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/iWallpaper-generated-files.hmap -I/Users/sohel/Desktop/Projects/iWallpaper/build/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/iWallpaper-own-target-headers.hmap -I/Users/sohel/Desktop/Projects/iWallpaper/build/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/iWallpaper-all-target-headers.hmap -iquote /Users/sohel/Desktop/Projects/iWallpaper/build/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/iWallpaper-project-headers.hmap -F/Users/sohel/Desktop/Projects/iWallpaper/build/Debug-iphonesimulator -I/Users/sohel/Desktop/Projects/iWallpaper/build/Debug-iphonesimulator/include -I/Users/sohel/Desktop/Projects/iWallpaper/build/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/DerivedSources/i386 -I/Users/sohel/Desktop/Projects/iWallpaper/build/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/DerivedSources -include /var/folders/vN/vNjHNZ+QHhmBwGiPV9aHtE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iWallpaper_Prefix-epfqfkxsmzvlztgvnwbjvxbkdrbv/iWallpaper_Prefix.pch -c /Users/sohel/Desktop/Projects/iWallpaper/Classes/../DataLoad.m -o /Users/sohel/Desktop/Projects/iWallpaper/build/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/Objects-normal/i386/DataLoad.o0#
+
+CCompileC build/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/Objects-normal/i386/NSObject+SBJSON.o /Users/sohel/Desktop/Projects/iWallpaper/Classes/NSObject+SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s328190529.803052
+e328190529.873453
+r1
+xCompileC
+xbuild/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/Objects-normal/i386/NSObject+SBJSON.o
+x/Users/sohel/Desktop/Projects/iWallpaper/Classes/NSObject+SBJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/sohel/Desktop/Projects/iWallpaper/Classes/NSObject+SBJSON.m328190529#328190529#0(0"0(0#0#66"/Users/sohel/Desktop/Projects/iWallpaper/Classes/NSObject+SBJSON.m8635807584#2013"    cd /Users/sohel/Desktop/Projects/iWallpaper    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/sohel/Desktop/Projects/iWallpaper/build/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/iWallpaper-generated-files.hmap -I/Users/sohel/Desktop/Projects/iWallpaper/build/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/iWallpaper-own-target-headers.hmap -I/Users/sohel/Desktop/Projects/iWallpaper/build/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/iWallpaper-all-target-headers.hmap -iquote /Users/sohel/Desktop/Projects/iWallpaper/build/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/iWallpaper-project-headers.hmap -F/Users/sohel/Desktop/Projects/iWallpaper/build/Debug-iphonesimulator -I/Users/sohel/Desktop/Projects/iWallpaper/build/Debug-iphonesimulator/include -I/Users/sohel/Desktop/Projects/iWallpaper/build/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/DerivedSources/i386 -I/Users/sohel/Desktop/Projects/iWallpaper/build/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/DerivedSources -include /var/folders/vN/vNjHNZ+QHhmBwGiPV9aHtE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iWallpaper_Prefix-epfqfkxsmzvlztgvnwbjvxbkdrbv/iWallpaper_Prefix.pch -c /Users/sohel/Desktop/Projects/iWallpaper/Classes/NSObject+SBJSON.m -o /Users/sohel/Desktop/Projects/iWallpaper/build/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/Objects-normal/i386/NSObject+SBJSON.o0#
+
+CCompileC build/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/Objects-normal/i386/NSString+SBJSON.o /Users/sohel/Desktop/Projects/iWallpaper/Classes/NSString+SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s328190529.804278
+e328190529.865510
+r1
+xCompileC
+xbuild/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/Objects-normal/i386/NSString+SBJSON.o
+x/Users/sohel/Desktop/Projects/iWallpaper/Classes/NSString+SBJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/sohel/Desktop/Projects/iWallpaper/Classes/NSString+SBJSON.m328190529#328190529#0(0"0(0#0#66"/Users/sohel/Desktop/Projects/iWallpaper/Classes/NSString+SBJSON.m8635387936#2013"    cd /Users/sohel/Desktop/Projects/iWallpaper    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/sohel/Desktop/Projects/iWallpaper/build/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/iWallpaper-generated-files.hmap -I/Users/sohel/Desktop/Projects/iWallpaper/build/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/iWallpaper-own-target-headers.hmap -I/Users/sohel/Desktop/Projects/iWallpaper/build/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/iWallpaper-all-target-headers.hmap -iquote /Users/sohel/Desktop/Projects/iWallpaper/build/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/iWallpaper-project-headers.hmap -F/Users/sohel/Desktop/Projects/iWallpaper/build/Debug-iphonesimulator -I/Users/sohel/Desktop/Projects/iWallpaper/build/Debug-iphonesimulator/include -I/Users/sohel/Desktop/Projects/iWallpaper/build/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/DerivedSources/i386 -I/Users/sohel/Desktop/Projects/iWallpaper/build/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/DerivedSources -include /var/folders/vN/vNjHNZ+QHhmBwGiPV9aHtE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iWallpaper_Prefix-epfqfkxsmzvlztgvnwbjvxbkdrbv/iWallpaper_Prefix.pch -c /Users/sohel/Desktop/Projects/iWallpaper/Classes/NSString+SBJSON.m -o /Users/sohel/Desktop/Projects/iWallpaper/build/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/Objects-normal/i386/NSString+SBJSON.o0#
+
+CCompileC build/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/Objects-normal/i386/SBJSON.o /Users/sohel/Desktop/Projects/iWallpaper/Classes/SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s328190529.865629
+e328190529.988643
+r1
+xCompileC
+xbuild/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/Objects-normal/i386/SBJSON.o
+x/Users/sohel/Desktop/Projects/iWallpaper/Classes/SBJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/sohel/Desktop/Projects/iWallpaper/Classes/SBJSON.m328190529#328190529#0(0"0(0#0#57"/Users/sohel/Desktop/Projects/iWallpaper/Classes/SBJSON.m8635335648#1995"    cd /Users/sohel/Desktop/Projects/iWallpaper    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/sohel/Desktop/Projects/iWallpaper/build/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/iWallpaper-generated-files.hmap -I/Users/sohel/Desktop/Projects/iWallpaper/build/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/iWallpaper-own-target-headers.hmap -I/Users/sohel/Desktop/Projects/iWallpaper/build/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/iWallpaper-all-target-headers.hmap -iquote /Users/sohel/Desktop/Projects/iWallpaper/build/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/iWallpaper-project-headers.hmap -F/Users/sohel/Desktop/Projects/iWallpaper/build/Debug-iphonesimulator -I/Users/sohel/Desktop/Projects/iWallpaper/build/Debug-iphonesimulator/include -I/Users/sohel/Desktop/Projects/iWallpaper/build/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/DerivedSources/i386 -I/Users/sohel/Desktop/Projects/iWallpaper/build/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/DerivedSources -include /var/folders/vN/vNjHNZ+QHhmBwGiPV9aHtE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iWallpaper_Prefix-epfqfkxsmzvlztgvnwbjvxbkdrbv/iWallpaper_Prefix.pch -c /Users/sohel/Desktop/Projects/iWallpaper/Classes/SBJSON.m -o /Users/sohel/Desktop/Projects/iWallpaper/build/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/Objects-normal/i386/SBJSON.o0#
+
+CCompileC build/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/Objects-normal/i386/SBJsonBase.o /Users/sohel/Desktop/Projects/iWallpaper/Classes/SBJsonBase.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s328190529.873557
+e328190529.972889
+r1
+xCompileC
+xbuild/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/Objects-normal/i386/SBJsonBase.o
+x/Users/sohel/Desktop/Projects/iWallpaper/Classes/SBJsonBase.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/sohel/Desktop/Projects/iWallpaper/Classes/SBJsonBase.m328190529#328190529#0(0"0(0#0#61"/Users/sohel/Desktop/Projects/iWallpaper/Classes/SBJsonBase.m8635217024#2003"    cd /Users/sohel/Desktop/Projects/iWallpaper    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/sohel/Desktop/Projects/iWallpaper/build/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/iWallpaper-generated-files.hmap -I/Users/sohel/Desktop/Projects/iWallpaper/build/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/iWallpaper-own-target-headers.hmap -I/Users/sohel/Desktop/Projects/iWallpaper/build/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/iWallpaper-all-target-headers.hmap -iquote /Users/sohel/Desktop/Projects/iWallpaper/build/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/iWallpaper-project-headers.hmap -F/Users/sohel/Desktop/Projects/iWallpaper/build/Debug-iphonesimulator -I/Users/sohel/Desktop/Projects/iWallpaper/build/Debug-iphonesimulator/include -I/Users/sohel/Desktop/Projects/iWallpaper/build/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/DerivedSources/i386 -I/Users/sohel/Desktop/Projects/iWallpaper/build/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/DerivedSources -include /var/folders/vN/vNjHNZ+QHhmBwGiPV9aHtE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iWallpaper_Prefix-epfqfkxsmzvlztgvnwbjvxbkdrbv/iWallpaper_Prefix.pch -c /Users/sohel/Desktop/Projects/iWallpaper/Classes/SBJsonBase.m -o /Users/sohel/Desktop/Projects/iWallpaper/build/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/Objects-normal/i386/SBJsonBase.o0#
+
+CCompileC build/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/Objects-normal/i386/SBJsonParser.o /Users/sohel/Desktop/Projects/iWallpaper/Classes/SBJsonParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s328190529.972990
+e328190530.107225
+r1
+xCompileC
+xbuild/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/Objects-normal/i386/SBJsonParser.o
+x/Users/sohel/Desktop/Projects/iWallpaper/Classes/SBJsonParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/sohel/Desktop/Projects/iWallpaper/Classes/SBJsonParser.m328190529#328190530#0(0"0(0#0#63"/Users/sohel/Desktop/Projects/iWallpaper/Classes/SBJsonParser.m8637068096#2007"    cd /Users/sohel/Desktop/Projects/iWallpaper    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/sohel/Desktop/Projects/iWallpaper/build/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/iWallpaper-generated-files.hmap -I/Users/sohel/Desktop/Projects/iWallpaper/build/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/iWallpaper-own-target-headers.hmap -I/Users/sohel/Desktop/Projects/iWallpaper/build/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/iWallpaper-all-target-headers.hmap -iquote /Users/sohel/Desktop/Projects/iWallpaper/build/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/iWallpaper-project-headers.hmap -F/Users/sohel/Desktop/Projects/iWallpaper/build/Debug-iphonesimulator -I/Users/sohel/Desktop/Projects/iWallpaper/build/Debug-iphonesimulator/include -I/Users/sohel/Desktop/Projects/iWallpaper/build/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/DerivedSources/i386 -I/Users/sohel/Desktop/Projects/iWallpaper/build/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/DerivedSources -include /var/folders/vN/vNjHNZ+QHhmBwGiPV9aHtE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iWallpaper_Prefix-epfqfkxsmzvlztgvnwbjvxbkdrbv/iWallpaper_Prefix.pch -c /Users/sohel/Desktop/Projects/iWallpaper/Classes/SBJsonParser.m -o /Users/sohel/Desktop/Projects/iWallpaper/build/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/Objects-normal/i386/SBJsonParser.o0#
+
+CCompileC build/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/Objects-normal/i386/SBJsonWriter.o /Users/sohel/Desktop/Projects/iWallpaper/Classes/SBJsonWriter.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s328190529.988731
+e328190530.085069
+r1
+xCompileC
+xbuild/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/Objects-normal/i386/SBJsonWriter.o
+x/Users/sohel/Desktop/Projects/iWallpaper/Classes/SBJsonWriter.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/sohel/Desktop/Projects/iWallpaper/Classes/SBJsonWriter.m328190529#328190530#0(0"0(0#0#63"/Users/sohel/Desktop/Projects/iWallpaper/Classes/SBJsonWriter.m8636509632#2007"    cd /Users/sohel/Desktop/Projects/iWallpaper    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/sohel/Desktop/Projects/iWallpaper/build/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/iWallpaper-generated-files.hmap -I/Users/sohel/Desktop/Projects/iWallpaper/build/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/iWallpaper-own-target-headers.hmap -I/Users/sohel/Desktop/Projects/iWallpaper/build/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/iWallpaper-all-target-headers.hmap -iquote /Users/sohel/Desktop/Projects/iWallpaper/build/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/iWallpaper-project-headers.hmap -F/Users/sohel/Desktop/Projects/iWallpaper/build/Debug-iphonesimulator -I/Users/sohel/Desktop/Projects/iWallpaper/build/Debug-iphonesimulator/include -I/Users/sohel/Desktop/Projects/iWallpaper/build/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/DerivedSources/i386 -I/Users/sohel/Desktop/Projects/iWallpaper/build/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/DerivedSources -include /var/folders/vN/vNjHNZ+QHhmBwGiPV9aHtE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iWallpaper_Prefix-epfqfkxsmzvlztgvnwbjvxbkdrbv/iWallpaper_Prefix.pch -c /Users/sohel/Desktop/Projects/iWallpaper/Classes/SBJsonWriter.m -o /Users/sohel/Desktop/Projects/iWallpaper/build/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/Objects-normal/i386/SBJsonWriter.o0#
+
+CCompileC build/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/Objects-normal/i386/iWallpaperAppDelegate.o /Users/sohel/Desktop/Projects/iWallpaper/Classes/iWallpaperAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s328190529.632678
+e328190529.723535
+r1
+xCompileC
+xbuild/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/Objects-normal/i386/iWallpaperAppDelegate.o
+x/Users/sohel/Desktop/Projects/iWallpaper/Classes/iWallpaperAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/sohel/Desktop/Projects/iWallpaper/Classes/iWallpaperAppDelegate.m328190529#328190529#0(0"0(0#0#72"/Users/sohel/Desktop/Projects/iWallpaper/Classes/iWallpaperAppDelegate.m8638125856#2025"    cd /Users/sohel/Desktop/Projects/iWallpaper    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/sohel/Desktop/Projects/iWallpaper/build/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/iWallpaper-generated-files.hmap -I/Users/sohel/Desktop/Projects/iWallpaper/build/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/iWallpaper-own-target-headers.hmap -I/Users/sohel/Desktop/Projects/iWallpaper/build/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/iWallpaper-all-target-headers.hmap -iquote /Users/sohel/Desktop/Projects/iWallpaper/build/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/iWallpaper-project-headers.hmap -F/Users/sohel/Desktop/Projects/iWallpaper/build/Debug-iphonesimulator -I/Users/sohel/Desktop/Projects/iWallpaper/build/Debug-iphonesimulator/include -I/Users/sohel/Desktop/Projects/iWallpaper/build/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/DerivedSources/i386 -I/Users/sohel/Desktop/Projects/iWallpaper/build/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/DerivedSources -include /var/folders/vN/vNjHNZ+QHhmBwGiPV9aHtE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iWallpaper_Prefix-epfqfkxsmzvlztgvnwbjvxbkdrbv/iWallpaper_Prefix.pch -c /Users/sohel/Desktop/Projects/iWallpaper/Classes/iWallpaperAppDelegate.m -o /Users/sohel/Desktop/Projects/iWallpaper/build/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/Objects-normal/i386/iWallpaperAppDelegate.o0#
+
+CCompileC build/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/Objects-normal/i386/iWallpaperViewController.o /Users/sohel/Desktop/Projects/iWallpaper/Classes/iWallpaperViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s328190529.687884
+e328190529.802950
+r1
+xCompileC
+xbuild/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/Objects-normal/i386/iWallpaperViewController.o
+x/Users/sohel/Desktop/Projects/iWallpaper/Classes/iWallpaperViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/sohel/Desktop/Projects/iWallpaper/Classes/iWallpaperViewController.m: In function '-[iWallpaperViewController viewDidLoad]':
+o/Users/sohel/Desktop/Projects/iWallpaper/Classes/iWallpaperViewController.m:89: warning: unused variable 'dataLoad'
+lSLF07#2@83"Compile /Users/sohel/Desktop/Projects/iWallpaper/Classes/iWallpaperViewController.m328190529#328190529#0(248"/Users/sohel/Desktop/Projects/iWallpaper/Classes/iWallpaperViewController.m: In function '-[iWallpaperViewController viewDidLoad]':/Users/sohel/Desktop/Projects/iWallpaper/Classes/iWallpaperViewController.m:89: warning: unused variable 'dataLoad'1(22@26"Unused variable 'dataLoad'328190529#132#116#0(6@75"/Users/sohel/Desktop/Projects/iWallpaper/Classes/iWallpaperViewController.m328190289#89#0#89#0#19"unused variable '*'0(0#0#75"/Users/sohel/Desktop/Projects/iWallpaper/Classes/iWallpaperViewController.m8637566848#2031"    cd /Users/sohel/Desktop/Projects/iWallpaper    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/sohel/Desktop/Projects/iWallpaper/build/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/iWallpaper-generated-files.hmap -I/Users/sohel/Desktop/Projects/iWallpaper/build/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/iWallpaper-own-target-headers.hmap -I/Users/sohel/Desktop/Projects/iWallpaper/build/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/iWallpaper-all-target-headers.hmap -iquote /Users/sohel/Desktop/Projects/iWallpaper/build/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/iWallpaper-project-headers.hmap -F/Users/sohel/Desktop/Projects/iWallpaper/build/Debug-iphonesimulator -I/Users/sohel/Desktop/Projects/iWallpaper/build/Debug-iphonesimulator/include -I/Users/sohel/Desktop/Projects/iWallpaper/build/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/DerivedSources/i386 -I/Users/sohel/Desktop/Projects/iWallpaper/build/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/DerivedSources -include /var/folders/vN/vNjHNZ+QHhmBwGiPV9aHtE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iWallpaper_Prefix-epfqfkxsmzvlztgvnwbjvxbkdrbv/iWallpaper_Prefix.pch -c /Users/sohel/Desktop/Projects/iWallpaper/Classes/iWallpaperViewController.m -o /Users/sohel/Desktop/Projects/iWallpaper/build/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/Objects-normal/i386/iWallpaperViewController.o0#
+
+CCompileC build/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/Objects-normal/i386/main.o /Users/sohel/Desktop/Projects/iWallpaper/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s328190529.631337
+e328190529.687774
+r1
+xCompileC
+xbuild/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/Objects-normal/i386/main.o
+x/Users/sohel/Desktop/Projects/iWallpaper/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@55"Compile /Users/sohel/Desktop/Projects/iWallpaper/main.m328190529#328190529#0(0"0(0#0#47"/Users/sohel/Desktop/Projects/iWallpaper/main.m8634838112#1983"    cd /Users/sohel/Desktop/Projects/iWallpaper    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/sohel/Desktop/Projects/iWallpaper/build/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/iWallpaper-generated-files.hmap -I/Users/sohel/Desktop/Projects/iWallpaper/build/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/iWallpaper-own-target-headers.hmap -I/Users/sohel/Desktop/Projects/iWallpaper/build/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/iWallpaper-all-target-headers.hmap -iquote /Users/sohel/Desktop/Projects/iWallpaper/build/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/iWallpaper-project-headers.hmap -F/Users/sohel/Desktop/Projects/iWallpaper/build/Debug-iphonesimulator -I/Users/sohel/Desktop/Projects/iWallpaper/build/Debug-iphonesimulator/include -I/Users/sohel/Desktop/Projects/iWallpaper/build/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/DerivedSources/i386 -I/Users/sohel/Desktop/Projects/iWallpaper/build/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/DerivedSources -include /var/folders/vN/vNjHNZ+QHhmBwGiPV9aHtE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iWallpaper_Prefix-epfqfkxsmzvlztgvnwbjvxbkdrbv/iWallpaper_Prefix.pch -c /Users/sohel/Desktop/Projects/iWallpaper/main.m -o /Users/sohel/Desktop/Projects/iWallpaper/build/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/sohel/Desktop/Projects/iWallpaper/MainWindow.xib
+s328190527.411493
+e328190528.697318
+r1
+xCompileXIB
+x/Users/sohel/Desktop/Projects/iWallpaper/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib328190527#328190528#0(0"0(0#0#55"/Users/sohel/Desktop/Projects/iWallpaper/MainWindow.xib8634893472#579"    cd /Users/sohel/Desktop/Projects/iWallpaper    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/sohel/Desktop/Projects/iWallpaper/build/Debug-iphonesimulator/iWallpaper.app/MainWindow.nib /Users/sohel/Desktop/Projects/iWallpaper/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/sohel/Desktop/Projects/iWallpaper/iWallpaperViewController.xib
+s328190527.412418
+e328190528.697088
+r1
+xCompileXIB
+x/Users/sohel/Desktop/Projects/iWallpaper/iWallpaperViewController.xib
+lSLF07#2@39"CompileXIB iWallpaperViewController.xib328190527#328190528#0(0"0(0#0#69"/Users/sohel/Desktop/Projects/iWallpaper/iWallpaperViewController.xib8634710304#607"    cd /Users/sohel/Desktop/Projects/iWallpaper    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/sohel/Desktop/Projects/iWallpaper/build/Debug-iphonesimulator/iWallpaper.app/iWallpaperViewController.nib /Users/sohel/Desktop/Projects/iWallpaper/iWallpaperViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CGenerateDSYMFile /Users/sohel/Desktop/Projects/iWallpaper/build/Debug-iphonesimulator/iWallpaper.app.dSYM /Users/sohel/Desktop/Projects/iWallpaper/build/Debug-iphonesimulator/iWallpaper.app/iWallpaper
+s328190530.215992
+e328190530.267670
+r1
+xGenerateDSYMFile
+x/Users/sohel/Desktop/Projects/iWallpaper/build/Debug-iphonesimulator/iWallpaper.app.dSYM
+x/Users/sohel/Desktop/Projects/iWallpaper/build/Debug-iphonesimulator/iWallpaper.app/iWallpaper
+lSLF07#2@118"GenerateDSYMFile build/Debug-iphonesimulator/iWallpaper.app.dSYM build/Debug-iphonesimulator/iWallpaper.app/iWallpaper328190530#328190530#0(0"0(0#0#94"/Users/sohel/Desktop/Projects/iWallpaper/build/Debug-iphonesimulator/iWallpaper.app/iWallpaper8634850304#398"    cd /Users/sohel/Desktop/Projects/iWallpaper    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/sohel/Desktop/Projects/iWallpaper/build/Debug-iphonesimulator/iWallpaper.app/iWallpaper -o /Users/sohel/Desktop/Projects/iWallpaper/build/Debug-iphonesimulator/iWallpaper.app.dSYM0#
+
+CLd /Users/sohel/Desktop/Projects/iWallpaper/build/Debug-iphonesimulator/iWallpaper.app/iWallpaper normal i386
+s328190530.163984
+e328190530.215884
+r1
+xLd
+x/Users/sohel/Desktop/Projects/iWallpaper/build/Debug-iphonesimulator/iWallpaper.app/iWallpaper
+xnormal
+xi386
+lSLF07#2@99"Link /Users/sohel/Desktop/Projects/iWallpaper/build/Debug-iphonesimulator/iWallpaper.app/iWallpaper328190530#328190530#0(0"0(0#0#0"8635225024#925"    cd /Users/sohel/Desktop/Projects/iWallpaper    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/Users/sohel/Desktop/Projects/iWallpaper/build/Debug-iphonesimulator -F/Users/sohel/Desktop/Projects/iWallpaper/build/Debug-iphonesimulator -filelist /Users/sohel/Desktop/Projects/iWallpaper/build/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/Objects-normal/i386/iWallpaper.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/sohel/Desktop/Projects/iWallpaper/build/Debug-iphonesimulator/iWallpaper.app/iWallpaper0#
+
+CProcessInfoPlistFile /Users/sohel/Desktop/Projects/iWallpaper/build/Debug-iphonesimulator/iWallpaper.app/Info.plist iWallpaper-Info.plist
+s328190527.404951
+e328190527.411393
+r1
+xProcessInfoPlistFile
+x/Users/sohel/Desktop/Projects/iWallpaper/build/Debug-iphonesimulator/iWallpaper.app/Info.plist
+xiWallpaper-Info.plist
+lSLF07#2@29"Process iWallpaper-Info.plist328190527#328190527#0(0"0(0#0#62"/Users/sohel/Desktop/Projects/iWallpaper/iWallpaper-Info.plist8635471136#494"    cd /Users/sohel/Desktop/Projects/iWallpaper    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility iWallpaper-Info.plist -genpkginfo /Users/sohel/Desktop/Projects/iWallpaper/build/Debug-iphonesimulator/iWallpaper.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/sohel/Desktop/Projects/iWallpaper/build/Debug-iphonesimulator/iWallpaper.app/Info.plist0#
+
+CProcessPCH /var/folders/vN/vNjHNZ+QHhmBwGiPV9aHtE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iWallpaper_Prefix-epfqfkxsmzvlztgvnwbjvxbkdrbv/iWallpaper_Prefix.pch.gch iWallpaper_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s328190528.697483
+e328190529.631099
+r1
+xProcessPCH
+x/var/folders/vN/vNjHNZ+QHhmBwGiPV9aHtE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iWallpaper_Prefix-epfqfkxsmzvlztgvnwbjvxbkdrbv/iWallpaper_Prefix.pch.gch
+xiWallpaper_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile iWallpaper_Prefix.pch328190528#328190529#0(0"0(0#0#62"/Users/sohel/Desktop/Projects/iWallpaper/iWallpaper_Prefix.pch8638304544#1870"    cd /Users/sohel/Desktop/Projects/iWallpaper    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/sohel/Desktop/Projects/iWallpaper/build/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/iWallpaper-generated-files.hmap -I/Users/sohel/Desktop/Projects/iWallpaper/build/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/iWallpaper-own-target-headers.hmap -I/Users/sohel/Desktop/Projects/iWallpaper/build/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/iWallpaper-all-target-headers.hmap -iquote /Users/sohel/Desktop/Projects/iWallpaper/build/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/iWallpaper-project-headers.hmap -F/Users/sohel/Desktop/Projects/iWallpaper/build/Debug-iphonesimulator -I/Users/sohel/Desktop/Projects/iWallpaper/build/Debug-iphonesimulator/include -I/Users/sohel/Desktop/Projects/iWallpaper/build/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/DerivedSources/i386 -I/Users/sohel/Desktop/Projects/iWallpaper/build/iWallpaper.build/Debug-iphonesimulator/iWallpaper.build/DerivedSources -c /Users/sohel/Desktop/Projects/iWallpaper/iWallpaper_Prefix.pch -o /var/folders/vN/vNjHNZ+QHhmBwGiPV9aHtE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iWallpaper_Prefix-epfqfkxsmzvlztgvnwbjvxbkdrbv/iWallpaper_Prefix.pch.gch0#
+
+CTouch /Users/sohel/Desktop/Projects/iWallpaper/build/Debug-iphonesimulator/iWallpaper.app
+s328190530.267767
+e328190530.320058
+r1
+xTouch
+x/Users/sohel/Desktop/Projects/iWallpaper/build/Debug-iphonesimulator/iWallpaper.app
+lSLF07#2@89"Touch /Users/sohel/Desktop/Projects/iWallpaper/build/Debug-iphonesimulator/iWallpaper.app328190530#328190530#0(0"0(0#0#0"8634564064#285"    cd /Users/sohel/Desktop/Projects/iWallpaper    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/sohel/Desktop/Projects/iWallpaper/build/Debug-iphonesimulator/iWallpaper.app0#
+

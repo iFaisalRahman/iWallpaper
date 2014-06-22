@@ -1,0 +1,58 @@
+TiWallpaper
+v7
+r1
+
+N/Users/sohel/Desktop/Projects/iWallpaper/MainWindow.xib
+c000000004DDF716F0000000000004E4D
+t1306489199
+s20045
+
+N/Users/sohel/Desktop/Projects/iWallpaper/build/Release-iphoneos/iWallpaper.app
+t2
+s0
+
+N/Users/sohel/Desktop/Projects/iWallpaper/build/Release-iphoneos/iWallpaper.app/Info.plist
+t2
+s0
+
+N/Users/sohel/Desktop/Projects/iWallpaper/build/Release-iphoneos/iWallpaper.app/MainWindow.nib
+t2
+s0
+
+N/Users/sohel/Desktop/Projects/iWallpaper/build/Release-iphoneos/iWallpaper.app/PkgInfo
+t2
+s0
+
+N/Users/sohel/Desktop/Projects/iWallpaper/build/Release-iphoneos/iWallpaper.app/iWallpaperViewController.nib
+t2
+s0
+
+N/Users/sohel/Desktop/Projects/iWallpaper/build/iWallpaper.build/Release-iphoneos/iWallpaper.build/com.apple.build-tools.platform.validate
+t2
+s0
+
+N/Users/sohel/Desktop/Projects/iWallpaper/iWallpaperViewController.xib
+c000000004DDF716F0000000000001A51
+t1306489199
+s6737
+
+NiWallpaper-Info.plist
+c000000004DDF7E810000000000000398
+t1306492545
+s920
+
+CCompileXIB /Users/sohel/Desktop/Projects/iWallpaper/MainWindow.xib
+r0
+
+CCompileXIB /Users/sohel/Desktop/Projects/iWallpaper/iWallpaperViewController.xib
+r0
+
+CProcessInfoPlistFile /Users/sohel/Desktop/Projects/iWallpaper/build/Release-iphoneos/iWallpaper.app/Info.plist iWallpaper-Info.plist
+r0
+
+CTouch /Users/sohel/Desktop/Projects/iWallpaper/build/Release-iphoneos/iWallpaper.app
+r0
+
+CValidate /Users/sohel/Desktop/Projects/iWallpaper/build/Release-iphoneos/iWallpaper.app
+r0
+
